@@ -1,0 +1,39 @@
+.heading 
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid black;
+}
+
+#restart, #status
+{
+    font-size: 25px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lavender;
+    color: palevioletred;
+    text-align: center;
+  }
+
+  video
+{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
